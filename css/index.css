@@ -1,0 +1,27 @@
+
+.table{
+    text-align: center;
+
+/* table-striped выделение через одну строчку*/
+/* цвет внутри выделения*/
+    --mdb-table-striped-color: #000;
+/* цвет заднего фона выделения*/
+    --mdb-table-striped-bg: rgba(8, 43, 240, 0.05);
+
+}
+
+#table-body td{
+    padding: 5px 0px;
+    border-color: inherit;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.test{
+    min-width: 1880px;
+    display: block;
+    box-sizing: border-box;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
