@@ -10,11 +10,22 @@
 
 }
 
+#table-head th{
+    padding: 5px 0px;
+}
 #table-body td{
     padding: 5px 0px;
     border-color: inherit;
-    font-size: 16px;
+    font-size: 13px;
     font-weight: 500;
+}
+
+.title_table{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 20px;
+    padding-top: 1%;
 }
 
 .test{
