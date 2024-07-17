@@ -20,6 +20,7 @@
     font-weight: 500;
 }
 
+
 .title_table{
     text-align: center;
     text-transform: uppercase;
@@ -29,10 +30,7 @@
 }
 
 .test{
-    min-width: 1880px;
+    width: 100%;
     display: block;
     box-sizing: border-box;
-    margin-left: 0px;
-    margin-right: 0px;
-
 }
