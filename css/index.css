@@ -32,7 +32,7 @@ body{
 	text-align: center;
     text-transform: uppercase;
     font-weight: 900;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 }
 
 #table-body tr{
@@ -41,7 +41,7 @@ body{
 
 }
 #table-body td{
-    font-size: 0.8rem;
+    font-size: 17px;
 	line-height: 1.2;
 	padding: 2px 3px;
     font-weight: 500;
@@ -54,5 +54,5 @@ body{
 #table-body tr:first-child td{
 	border-bottom: 3px solid;
 	font-weight: 700;
-	font-size: 1rem;	
+	font-size: 1.1rem;	
 }
