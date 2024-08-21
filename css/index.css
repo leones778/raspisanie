@@ -24,7 +24,6 @@ body{
     --mdb-table-striped-color: #000;
 /* цвет заднего фона выделения*/
     --mdb-table-striped-bg: rgba(8, 43, 240, 0.05);
-
 }
 
 #table-head{
