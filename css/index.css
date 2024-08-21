@@ -53,7 +53,7 @@ body{
 }
 #table-body td{
 	border: 1px solid;
-    font-size: 16px;
+    font-size: 1rem;
 	line-height: 1;
 	padding: 2px 3px;
     font-weight: 500;
@@ -68,5 +68,5 @@ body{
 	border-top: 3px solid;
 	border-bottom: 3px solid;
 	font-weight: 700;
-	font-size: 16px;	
+	font-size: 1rem;	
 }
