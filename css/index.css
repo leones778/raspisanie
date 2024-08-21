@@ -43,7 +43,7 @@ body{
 	padding-bottom: 5px;
 	text-align: center;
     text-transform: uppercase;
-    font-weight: 00;
+    font-weight: 700;
     font-size: 1rem;
 }
 
@@ -53,8 +53,8 @@ body{
 }
 #table-body td{
 	border: 1px solid;
-    font-size: 1.2rem;
-	line-height: 1.1;
+    font-size: 16px;
+	line-height: 1;
 	padding: 2px 3px;
     font-weight: 500;
 }
@@ -64,8 +64,9 @@ body{
 }
 
 #table-body tr:first-child td{
+	line-height: 1;
 	border-top: 3px solid;
 	border-bottom: 3px solid;
 	font-weight: 700;
-	font-size: 1rem;	
+	font-size: 16px;	
 }
