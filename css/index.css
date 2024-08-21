@@ -15,10 +15,6 @@ body{
 	font-size: 2rem;
 }
 
-.table-bordered{
-
-}
-
 .table{
 	width: 100%;
     text-align: center;
@@ -53,9 +49,9 @@ body{
 }
 #table-body td{
 	border: 1px solid;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 	line-height: 1;
-	padding: 2px 0px;
+	padding: 2px 2px;
     font-weight: 500;
 }
 
